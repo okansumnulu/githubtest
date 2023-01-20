@@ -1,0 +1,2 @@
+# githubtest
+eğitim amaçlı hazırlanmıştır.
